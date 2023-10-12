@@ -1,7 +1,7 @@
 ### Hi there 👋 I AM CASTOROSA II
 ### I AM FOUNDER OF NEVICS AVIATION COMMUNITY 
 
-## FULL-STACK DEVELOPER & DATA SCIENTIST 
+## DATA SCIENTIST && MACHINE LEARNING  
 -I am full-stack developer with enough expert in react framework and django frame work for backend development .
 
 - 🔭 I’m currently working on personal website project known as the Nevics aviation community which is my first step towards using my technical skill towards solving aviation problems such as :
