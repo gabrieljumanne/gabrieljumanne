@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on personal website project known as CAST-TOUR which is my first step towards using my technical skill towards solving aviation problems in Tourism (AVITOUR) such as :
                           - Ticketing and booking system.
-                          - Flight management systems.
-                          - AVITOUR Hubs such as chatting communities for pilots and some people with passion within this industry .
                           - learning and implementing new technologies such as block-chain technology  in aviation industry ..
                           - Using AI-system to build recommendation system .
 
@@ -15,8 +13,7 @@
 - 🌱 I’m currently learning:
                             -Data science by using python.
                             -Machine-learning.
-                            -Java programming language 
-                            -Implimentation of API using Java 
+                            
 
   
 - 👯 I’m looking to collaborate on Data Science Field and website development projects 
